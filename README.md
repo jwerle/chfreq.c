@@ -8,7 +8,7 @@ Compute character frequency in a string
 [clib](https://github.com/clibs/clib):
 
 ```sh
-$ clib install jwerle/murmurhash.c
+$ clib install jwerle/chfreq.c
 ```
 
 source:
